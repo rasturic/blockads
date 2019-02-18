@@ -1,3 +1,5 @@
 # Block annoying LG smart tv ads
-127.0.0.1 US.ad.lgsmartad.com
-127.0.0.1 US.info.lgsmartad.com
+10.10.10.1 US.ad.lgsmartad.com
+10.10.10.1 US.info.lgsmartad.com
+10.10.10.1 p.ads.roku.com
+10.10.10.1 ads.roku.com
