@@ -5,3 +5,4 @@
 127.0.0.1 ngfts.lge.com
 127.0.0.1 p.ads.roku.com
 127.0.0.1 ads.roku.com
+127.0.0.1 ters.us-east-1.aiv-delivery.net
